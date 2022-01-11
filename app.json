@@ -1,14 +1,14 @@
 {
-    "name": "Python-Drive-Bot",
-    "description": "Telegram-Direct-Mirror to G-Drive",
+    "name": "Mirror-Magneto",
+    "description": "Google-Drive-Files-Copy-Paste",
     "logo": "https://telegra.ph/file/e15e9ac9c5885b015e3ab.jpg",
     "keywords": [
       "telegram",
       "bot",
-      "aria",
+      "magneto",
       "python"
     ],
-    "repository": "https://github.com/AbirHasan2005/magneto-python-aria.git",
+    "repository": "https://github.com/levirandi/drive-bot.git",
     "website": "https://t.me/linux_repo",
     "success_url": "https://t.me/linux_repo",
     "stack": "container",
